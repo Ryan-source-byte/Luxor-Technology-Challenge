@@ -1,0 +1,7 @@
+.env
+*.log
+bin/
+dist/
+coverage.out
+tmp/
+.codex_resume_review/
